@@ -1,0 +1,42 @@
+Show databases;
+ create database VITcampus;
+ create database VITCampus3;
+ drop database VITcampus;
+ use vitCAMPUS3;
+ create table CSE(
+ sid int8,
+ sname varchar(50),
+ smarks int1
+ );
+  create table Mech(
+ sid int8,
+ sname varchar(50),
+ smarks int1
+ );
+  create table EEE(
+ sid int8,
+ sname varchar(50),
+ smarks int1
+ );
+   create table BIOTECH(
+ sid int8,
+ sname varchar(50),
+ smarks int1
+ );
+   create table CHEMICAL(
+ sid int8,
+ sname varchar(50),
+ smarks int1
+ );
+ show tables from vitcampus3;
+ select * from cse;
+ insert into cse values (109, 'Kiran',99);
+ select * from eee;
+ insert into eee values(104,'yuvanesh',100);
+  select * from chemical;
+  insert into chemical values(105,'elsa simon',99);
+   select * from biotech;
+   insert into biotech values(100,'dharshan',90);
+    select * from mech;
+    insert into mech values(102,'Nandhu',98);
+ 
