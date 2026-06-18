@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6a33b439c8bd153f30262da4"
+  },
+  "vehicleId": "VEH001",
+  "vehicleName": "Swift",
+  "vehicleType": "Car",
+  "brand": "Maruti",
+  "model": "VXI",
+  "pricePerDay": 2000,
+  "availabilityStatus": true
+}]

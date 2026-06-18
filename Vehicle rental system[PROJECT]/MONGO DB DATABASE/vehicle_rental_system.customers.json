@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6a33b1b3c8bd153f30262da3"
+  },
+  "customerId": "CUS001",
+  "name": "Yuvanesh",
+  "email": "yuvanesh.r2024@vitstudent.ac.in",
+  "phoneNumber": "6379636852",
+  "licenseNumber": "TN123456789",
+  "username": "yuvanesh",
+  "password": "Yuvanesh37#"
+}]

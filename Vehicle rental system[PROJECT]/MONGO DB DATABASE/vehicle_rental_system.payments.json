@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6a33b67fc8bd153f30262da6"
+  },
+  "paymentId": "PAY001",
+  "rentalId": "REN001",
+  "amount": 10000,
+  "paymentDate": "2026-06-18",
+  "paymentMethod": "UPI",
+  "paymentStatus": "COMPLETED"
+}]

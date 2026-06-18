@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6a33b660c8bd153f30262da5"
+  },
+  "rentalId": "REN001",
+  "customerId": "CUS001",
+  "vehicleId": "VEH001",
+  "rentalDate": "2026-06-18",
+  "numberOfDays": 5,
+  "totalAmount": 10000,
+  "rentalStatus": "COMPLETED"
+}]
